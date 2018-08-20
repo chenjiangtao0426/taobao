@@ -1,0 +1,1 @@
+var app = angular.module('pinyougou', ['pagination']); //定义平优购模块，引入分页插件
